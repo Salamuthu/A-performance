@@ -1,0 +1,17 @@
+﻿age,training_hours_per_day,training_days_per_week,sleep_hours,rest_days_per_week,previous_injury,athlete_level,injury_risk,performance_trend
+18,2,5,8,2,No,Beginner,Low,Improving
+22,4,6,6,1,Yes,Intermediate,High,Declining
+25,3,5,7,2,No,Intermediate,Medium,Stable
+30,5,6,5,1,Yes,Professional,High,Declining
+19,2,4,8,3,No,Beginner,Low,Improving
+27,4,6,6,1,Yes,Professional,High,Stable
+23,3,5,7,2,No,Intermediate,Medium,Improving
+21,4,6,5,1,Yes,Intermediate,High,Declining
+29,5,6,6,1,Yes,Professional,High,Declining
+24,3,5,7,2,No,Intermediate,Medium,Stable
+20,2,4,8,3,No,Beginner,Low,Improving
+26,4,6,6,1,Yes,Professional,High,Stable
+28,5,6,5,1,Yes,Professional,High,Declining
+22,3,5,7,2,No,Intermediate,Medium,Improving
+31,4,6,6,1,Yes,Professional,High,Declining
+20,4,6,6,1,No,Professional,Low,Improving
